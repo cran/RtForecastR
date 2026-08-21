@@ -1,5 +1,6 @@
-37aef4e157a7229ac7186d428e0692cb *DESCRIPTION
+0b64c6285bbe8f7423c2ab11c6f4e407 *DESCRIPTION
 2f8b61003067136783ded69c48fa75af *NAMESPACE
+e1d7bb76da3215b70e56dd6e3e6695d9 *NEWS.md
 a2dec6f98b3713c13d8c82ced21d951a *R/computeLambda.R
 740eb5b5e0d228baf0835f0c0ed4d6a9 *R/data.R
 7a82670c7a9c945c8badd45806a3240c *R/epiFilter.R
@@ -7,7 +8,7 @@ a8cde1201fd4b8aa6ec1417eb4a66c80 *R/epiSmoother.R
 8e0798dff67b4364b6df81738a95170f *R/plot_rtforecast.R
 f5cad51d5050ba57cb98ed730cd41c6b *R/recursPredict.R
 75d0c58b8b76f2bcacf8fb156c8b3bcb *R/recursPredictQuantiles.R
-af7c0252ff1046ce7c08733c9d98c408 *R/rt_forecast.R
+9b964ca38002e29ab6de8948ca2f72fb *R/rt_forecast.R
 c733d5d7460fdf279065a67a48b09204 *R/scoreForecast.R
 6af8e7644a2c366a25339b1923c9a048 *build/partial.rdb
 065409ede3ea998bc1dd31dc046c7880 *build/vignette.rds
@@ -34,6 +35,6 @@ e7487edcb157163bc43b3b46c5d39e96 *man/rmse.Rd
 f6c758c600e27a26773e0db28fb2e4f2 *man/score_batches.Rd
 c1366b415e8c362fe3c75ce13103b7c1 *man/wis.Rd
 ebc39df4c316c44c47dcdb6e5d78ecd8 *tests/testthat.R
-7062a2bf4dabf0edb6c337792309386b *tests/testthat/test-rt-forecast.R
+0ca853a348f08a83f5146700ad8a1098 *tests/testthat/test-rt-forecast.R
 45bbc88e3a5e54a6790c789fefd85890 *tests/testthat/test-scoring.R
 96c500aefb17650b2a2c9af3994dae26 *vignettes/rtforecastr-walkthrough.Rmd
